@@ -5,9 +5,10 @@ The goal is to evaluate performance, interpretability, and the effect of differe
 
 📁 Project Structure
 
-ML_Dataset.csv                   # Dataset used for training & evaluation</br>
-Report_Car Price Prediction.py   # Full model training + comparison code</br>
-Report_Car Price Prediction.pdf # Project documentation/report</br>
+ML_Dataset.csv                  - Dataset used for training & evaluation
+Report_Car Price Prediction.py  - Full model training & comparison code
+Report_Car Price Prediction.pdf - Project documentation/report
+
 
 🚀 Features
 
